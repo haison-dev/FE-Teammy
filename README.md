@@ -49,7 +49,7 @@ VITE_FIREBASE_MEASUREMENT_ID=your_measurement_id
 VITE_DOMAIN_ADMIN=your_api_base_url
 ```
 
-## Tài khoản demo (cho nhà tuyển dụng dùng thử)
+## Tài khoản demo
 ```json
 {
   "Users": [
