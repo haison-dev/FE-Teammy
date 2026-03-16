@@ -1,9 +1,10 @@
 # Teammy (Frontend)
+Nền tảng capstone dành cho sinh viên: ghép nhóm, tìm mentor, quản lý dự án, và giao tiếp hiệu quả trong suốt quá trình thực hiện.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36ede756-232c-4123-86f4-7bfb0c7bbdd3" />
 
 
-Nền tảng capstone dành cho sinh viên: ghép nhóm, tìm mentor, quản lý dự án, và giao tiếp hiệu quả trong suốt quá trình thực hiện.
+
 
 ## Tính năng nổi bật
 - Tìm đồng đội và tuyển thành viên theo vai trò/kỹ năng.
