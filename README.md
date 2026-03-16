@@ -1,4 +1,7 @@
-# Teammy (Frontend)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2bd9f6b9-688f-430b-8249-d27ecfc54015" /># Teammy (Frontend)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36ede756-232c-4123-86f4-7bfb0c7bbdd3" />
+
 
 Nền tảng capstone dành cho sinh viên: ghép nhóm, tìm mentor, quản lý dự án, và giao tiếp hiệu quả trong suốt quá trình thực hiện.
 
